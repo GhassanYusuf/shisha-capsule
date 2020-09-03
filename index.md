@@ -18,6 +18,15 @@ build a 3D printer body that can accommodate the submergible UV light and yet se
 * Buck Boost Converter.
 * UV Light
 
+1st Model - Lower Area Thread
+![](./design/images/sc-0201.png)
+
+1st Model Section Analysis
+![](./design/images/sc-0201-sa.png)
+
+2nd Model - Upper Area Thread
+![](./design/images/sc-0202.png)
+
 ### Design details are as the following
 
 * [3D Design & Visualization]()
