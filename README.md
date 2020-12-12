@@ -31,10 +31,10 @@ build a 3D printer body that can accommodate the submergible UV light and yet se
 
 ### Design details are as the following
 
-* [3D Design & Visualization]()
-* [Circuit Block Diagram]()
-* [Circuit Module Connection]()
-* [Testing The Circuit In Practical]()
+* 3D Design & Visualization
+* Circuit Block Diagram
+* Circuit Module Connection
+* Testing The Circuit In Practical
 
 finally test it in sealing water and in floating. do a lab test to see the amount of bacteria eliminated by the UV light.
 
@@ -61,3 +61,7 @@ we developed an internal structure to help us easily assemble the shisha capsule
 ### Internal Structure Within The Original Body Section Analysis
 
 ![](./design/images/sc-0206.png)
+
+### Electronic Circuit Diagram
+
+![](./design/images/circuit.jpg)
